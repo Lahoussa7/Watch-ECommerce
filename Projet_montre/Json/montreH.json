@@ -1,0 +1,102 @@
+{
+    "homme":[
+        {
+            "image":"../Image/maurice-lacroix-automatique-aikon-automatique-42mm-gris-cui.webp",
+            "price":"2500 $",
+            "id":"7674-3",
+            "marque":"Zeppelin",
+            "qualite":"Quartz - 43mm",
+            "nom":"100 Years Alarm Chronograph Ed.1 Gris - Zeppelin"
+     
+        },
+        {
+            "image":"../Image/maurice-lacroix-automatique-aikon-automatique-42mm-blanc-cu.webp",
+            "price":"1800 $",
+            "id":"7674-3",
+            "marque":"Zeppelin",
+            "qualite":"Quartz - 42mm",
+            "nom":"100 Years Alarm Chronograph Ed.1 Blanc - Zeppelin"
+        },
+        {
+            "image":"../Image/maurice-lacroix-automatique-aikon-automatique-42mm-bleu-aci.webp",
+            "price":"400 $",
+            "id":"7674-3",
+            "marque":"Zeppelin",
+            "qualite":"Quartz - 42mm",
+            "nom":"100 Years Alarm Chronograph Ed.1 Bleu/Acier - Zeppelin"
+        },
+        {
+            "image":"../Image/maurice-lacroix-automatique-aikon-automatique-42mm-bleu-cui.webp",
+            "price":"2000 $",
+            "id":"7674-3",
+            "marque":"Zeppelin",
+            "qualite":"Quartz - 42mm",
+            "nom":"100 Years Alarm Chronograph Ed.1 Bleu/Cuivre - Zeppelin"
+        },
+        {
+            "image":"../Image/maurice-lacroix-automatique-aikon-automatique-42mm-gris-aci.webp",
+            "price":"5000 $",
+            "id":"7674-3",
+            "marque":"Zeppelin",
+            "qualite":"Quartz - 42mm",
+            "nom":"100 Years Alarm Chronograph Ed.1 Gris/Acier - Zeppelin"
+        },
+        {
+            "image":"../Image/maurice-lacroix-automatique-aikon-automatique-venturer-_002.webp",
+            "price":"790 $",
+            "id":"AI6008-SS001-130-1 ",
+            "marque":"Maurice Lacroix ",
+            "qualite":"Automatique - 44mm",
+            "nom":"Aikon Quartz Chronographe 44mm  - Maurice Lacroix"
+        },
+        {
+            "image":"../Image/maurice-lacroix-automatique-aikon-automatique-venturer-43mm.webp",
+            "price":"500 $",
+            "id":"AI6008-SS001-130-1 ",
+            "marque":"Maurice Lacroix ",
+            "qualite":"Automatique - 44mm",
+            "nom":"Aikon Quartz Chronographe 44mm Silver - Maurice Lacroix"
+        },
+        {
+            "image":"../Image/maurice-lacroix-chronographe-aikon-quartz-chronographe-44mm.webp",
+            "price":"6800 $",
+            "id":"AI6008-SS001-130-1 ",
+            "marque":"Maurice Lacroix ",
+            "qualite":"Automatique - 44mm",
+            "nom":"Aikon Quartz Chronographe 44mm - Maurice Lacroix"
+        },
+        {
+            "image":"../Image/maurice-lacroix-chronographe-aikon-quartz-chronographe-44mm.webp",
+            "price":"2309 $",
+            "id":"AI6008-SS001-130-1 ",
+            "marque":"Maurice Lacroix ",
+            "qualite":"Automatique - 42mm"
+        },
+        {
+            "image":"../Image/maurice-lacroix-chronographe-aikon-quartz-chronographe-_005.webp",
+            "price":"4300 $",
+            "id":"AI6008-SS001-130-1 ",
+            "marque":"Maurice Lacroix ",
+            "qualite":"Automatique - 42mm",
+            "nom":"Aikon Quartz Chronographe 44mm Silver Bleu/Acier - Maurice Lacroix"
+        },
+        {
+            "image":"../Image/orient-bambino-v4-bambino-v4-automatique-gold-green-orient.webp",
+            "price":"8500 $",
+            "id":"AI6008-SS001-130-1 ",
+            "marque":"Orient ",
+            "qualite":"Automatique - 42mm",
+            "nom":"Bambino V4 Automatique Gold/Green - Orient"
+        },
+        {
+            "image":"../Image/orient-automatique-bambino-v4-automatique-gris-orient.webp",
+            "price":"500 $",
+            "id":"AI6008-SS001-130-1 ",
+            "marque":"Orient ",
+            "qualite":"Automatique - 42mm",
+            "nom":"Bambino V4 Automatique Gris - Orient"
+        }
+        
+    ]
+
+}

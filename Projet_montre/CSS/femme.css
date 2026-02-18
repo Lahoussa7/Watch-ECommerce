@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.size{
+    width:100%;
+    height: 25rem;
+}
+.back2 {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+section .path{
+    font-weight: bold;
+    font-size: 6rem;
+    margin-top: 10rem;
+}
+.texte-sur-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    color:white;
+    transform: translate(-50%, -50%);
+    background-color: rgba(17, 17, 17, 0.315); /* Pour rendre le texte plus lisible */
+    padding: 10px;
+    border-radius: 5px;
+}
+.style-homme {
+    margin-top: 12%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.style-homme .produit {
+    margin-bottom: 20px;
+    text-align: center;
+    height: 32rem;
+    border:1.2px solid black;
+    background-color: rgba(250, 229, 229, 0.466);
+    border-radius: 3%;
+}
+.produit img{
+    height: auto;
+    width:20rem;
+   
+}
+.produit img:hover{
+    filter: brightness(0.4);
+    border-radius: 3%;
+}
+.produit .p1{
+    color:green;
+}
+.produit .p3{
+    color: brown;
+    font-weight: light;
+    
+}
+.produit .p4{
+    color:rgb(192, 191, 191);
+}
+.produit a{
+    background-color: black;
+    color:white;
+    width: 10rem;
+    height:5rem ;
+    font-size:1rem;
+    padding: 5%;
+    text-decoration: none;
+}
+.produit a:hover{
+    background-color:white;
+    color: black;
+    border:1px solid black;
+}
+

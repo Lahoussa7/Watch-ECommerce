@@ -1,0 +1,103 @@
+{
+    "femme":[
+        {
+            "image":"../Image/g-shock-g-2100-gma-s2100-montre-casio-g-shock-gma-s2100_002.webp",
+            "price":"99.9 $",
+            "id":"GMA-S2100-1AER ",
+            "marque":"G-Shock",
+            "qualite":"Electronique - 42,9mm",
+            "nom":"Montre Casio G-Shock GMA-S2100-1AER"
+     
+        },
+        {
+            "image":"../Image/g-shock-g-2100-gma-s2100-montre-casio-g-shock-gma-s2100-1ae.webp",
+            "price":"99.9 $",
+            "id":"GMA-S2100-4A2ER ",
+            "marque":"G-Shock",
+            "qualite":"Electronique - 42,9mm",
+            "nom":"Montre Casio G-Shock GMA-S2100-4A2ER"
+         },
+        {
+           
+            "image":"../Image/g-shock-g-2100-gma-s2100-montre-casio-g-shock-gma-s2100-4a2.webp",
+            "price":"99.9 $",
+            "id":"GMA-S2100-4AER ",
+            "marque":"G-Shock",
+            "qualite":"Electronique - 42,9mm",
+            "nom":"Montre Casio G-Shock GMA-S2100-4AER"
+          },
+        {
+            "image":"../Image/g-shock-g-2100-gma-s2100-montre-casio-g-shock-gma-s2100-4ae.webp",
+            "price":"99.9 $",
+            "id":"GMA-S2100GA-1AER ",
+            "marque":"G-Shock",
+            "qualite":"Electronique - 42,9mm",
+            "nom":"Montre Casio G-Shock GMA-S2100-4AER"   },
+        {
+            "image":"../Image/hamilton-jazzmaster-performer-montre-hamilton-jazzmaster-pe.webp",
+            "price":"1225 $",
+            "id":"H36105140",
+            "marque":"Hamilton",
+            "qualite":"Automatique - 34mm ",
+            "nom":"Montre hamilton Jazzmaster Performer Lady"
+        },
+        {
+            "image":"../Image/hamilton-khaki-aviation-pilot-pioneer-montre-hamilton-k_002.webp",
+            "price":"1155 $",
+            "id":"H76419531",
+            "marque":"Hamilton",
+            "qualite":"Automatique - 34mm ",
+            "nom":"Montre Hamilton Khaki Aviation Pilot Pioneer"
+        },
+        {
+            "image":"../Image/hamilton-khaki-aviation-pilot-pioneer-montre-hamilton-k_003.webp",
+            "price":"975 $",
+            "id":"H36105141",
+            "marque":"Hamilton",
+            "qualite":"Automatique - 34mm ",
+            "nom":"Montre hamilton Khaki Aviation Pilot Pioneer"
+           },
+        {
+            "image":"../Image/hamilton-khaki-aviation-pilot-pioneer-montre-hamilton-khaki.webp",
+            "price":"925 $",
+            "id":"H36105142",
+            "marque":"Hamilton",
+            "qualite":"Automatique - 34mm ",
+            "nom":"Montre hamilton Khaki Aviation Pilot Pioneer"
+         },
+        {
+            "image":"../Image/hamilton-khaki-field-mechanical-montre-hamilton-khaki-f_002.webp",
+            "price":"880 $",
+            "id":"H70455533",
+            "marque":"Hamilton",
+            "qualite":"Automatique - 34mm ",
+            "nom":"Montre hamilton Khaki Field Mechanical"
+       
+        },
+        {
+            "image":"../Image/hamilton-khaki-field-mechanical-montre-hamilton-khaki-f_003.webp",
+            "price":"745 $",
+            "id":"H70455133",
+            "marque":"Hamilton",
+            "qualite":"Automatique - 34mm ",
+            "nom":"Montre hamilton Khaki Field Mechanical"
+           },
+        {
+            "image":"../Image/hamilton-khaki-field-mechanical-montre-hamilton-khaki-f_004.webp",
+            "price":"1195 $",
+            "id":"H70455133",
+            "marque":"Hamilton",
+            "qualite":"Automatique - 34mm ",
+            "nom":"Montre hamilton Khaki Field Mechanical"    },
+        {
+            "image":"../Image/hamilton-khaki-field-mechanical-montre-hamilton-khaki-f_005.webp",
+            "price":"745 $",
+            "id":"H70455133",
+            "marque":"Hamilton",
+            "qualite":"Automatique - 34mm ",
+            "nom":"Montre hamilton Khaki Field Mechanical" 
+        }
+        
+    ]
+
+}

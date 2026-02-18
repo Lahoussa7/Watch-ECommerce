@@ -1,0 +1,41 @@
+.notification {
+    /* position: absolute;
+    top: -10px;
+    right: -10px; */
+    margin-left:6rem ;
+    background-color: red;
+    color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    position: absolute;
+}
+
+.notification1 {
+    /* position: absolute;
+    top: -10px;
+    right: -10px; */
+    margin-left:1rem ;
+    background-color: red;
+    color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 12px;
+    position: absolute;
+}
+
+.shop {
+    position: relative;
+   
+    display: inline-block;
+}
+.shop img{
+    width:12rem;
+    height:12rem;
+}

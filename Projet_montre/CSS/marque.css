@@ -1,0 +1,75 @@
+.container-marque{
+    width:100%;
+    /* flex-direction: row; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* background-color: blueviolet; */
+   
+}
+.mblog{
+    position: relative;
+    width:20rem;
+    height: 25rem;
+}
+.mblogg a{
+    color:white;
+    text-decoration: none;
+    font-size: 1rem;
+    position: relative;
+
+}
+.mblogg a::before{
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0%;
+    height: 2px;
+    background-color: rgb(255, 250, 250);
+    border-radius: 999px;
+    transition: all .5s ease;
+}
+.mblogg a:hover::before{
+    width: 100%;
+}
+.mblogg{
+    margin-top: -30%;
+    width:20rem;
+    position: absolute;
+    height: 11.2rem;
+    color: white;
+    padding-left: 10%;
+    
+    background-image: linear-gradient(180deg,rgba(18,18,18,0) 0%,rgba(26,26,26,.8) 23%,#121212 100%);
+    /* z-index: 20; */
+}
+.mblogg p{
+    margin-top: 10%;
+   
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.mblog img{
+    width:20rem;
+    /* height: 25rem; */
+}
+.mblog:hover{
+    filter:brightness(0.7);
+}
+.mblog:hover .mblogg p{
+    transform: translateY(-40%);
+    transition: all 0.5s ease-in-out;
+}
+@media screen  and (min-width: 370px) and (max-width: 700px){
+    .container-marque{
+        width:100%;
+        /* flex-direction: row; */
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        /* background-color: blueviolet; */
+       
+    }
+    
+}

@@ -1,0 +1,106 @@
+{
+  "marques": [
+    {
+      "model": ["Alpina", "Baltic", "Beaubleu"]
+    },
+    {
+      "model": ["Hanhart", "Hirsch", "Iron Annie"]
+    },
+    {
+      "model": ["Nomos", "Orient", "Seiko"]
+    },
+    {
+      "model": ["Timex", "Yema", "Zodiac"]
+    }
+  ],
+  "montres": [
+    {
+      "model": ["Homme", "Femme", "Automatique"]
+    },
+    {
+      "model": ["Militaire", "Connecté", "Ville"]
+    },
+    {
+      "model": ["GMT", "Calendrier", "Date"]
+    },
+    {
+      "model": ["Suisse", "Français", "Japonais"]
+    }
+  ],
+  "atelier": [
+    {
+      "image": "../Image/atelier.png",
+      "phrase": "Parce que votre montre vit avec vous, elle s’abîme, se casse et s’entretient. Que ce soit pour un service rapide comme un changement de pile, un ajustement ou un remplacement de bracelet, notre équipe s’occupe de vous sur place en quelques minutes. Pour les opérations plus délicates telles qu’une réparation, une révision, un polissage, un réglage ou un contrôle de mouvement, notre atelier agréé et certifié par les grandes marques répond aux besoins les plus techniques avec du matériel de pointe."
+    }
+  ],
+  "boutique": [
+    {
+      "image": "../Image/boutique.png",
+      "phrase": "Située en plein milieu du quartier Saint Pierre, cœur historique de la ville de Bordeaux, la boutique HOREL vous accueille dans un quartier commerçant vivant logé entre des ruelles pittoresques et des monuments à la richesse architecturale unique. Tel un anachronisme, Aurélien et Jérémy vous reçoivent dans un écrin moderne et chaleureux pour vous guider dans votre futur projet horloger. Autour d’un café dans notre espace détente, prenez votre aise, vous êtes comme à la maison."
+    }
+  ],
+  "concept": [
+    {
+      "image": "../Image/maison.webp",
+      "phrase": "Créer un lieu unique pour les passionnés d’horlogerie. C’est le principe qui nous a guidé depuis la création de notre boutique à Bordeaux en 2011. HOREL, c’est un concept moderne principalement axé sur la mécanique horlogère, tout en conservant l’amour du bel objet, quel que soit le calibre qui l’anime. Avec une approche humaine et passionnée, en ligne comme en boutique, nous vous proposons des garde-temps rares et abordables, comme du vintage de luxe."
+    }
+  ],
+  "sary": [
+    {
+      "img": "../Image/menu.png",
+      "phrase": " Paiement sécurisé",
+      "phrase1": " 100% sécurisé"
+    },
+    {
+      "img": "../Image/menu1.png",
+      "phrase": " Satisfait ou remboursé ",
+      "phrase1": "Sous 30 jours "
+    },
+    {
+      "img": "../Image/diple.png",
+      "phrase": " Facilités de paiement ",
+      "phrase1": "En plusieurs fois sans frais"
+    },
+    {
+      "img": "../Image/appel.png",
+      "phrase": "Service client",
+      "phrase1": "Disponible au 05 57 77 28 96"
+    },
+    {
+      "img": "../Image/mesure.png",
+      "phrase": "Mise à taille offerte",
+      "phrase1": "Ajustement bracelet gratuit"
+    }
+  ],
+  "input": [
+    {
+      "img": "../Image/Icon_awesome-facebook-f.svg"
+    },
+    {
+      "img": "../Image/icon-instagram.svg"
+    },
+    {
+      "img": "../Image/icon-youtube.svg"
+    },
+    {
+      "img": "../Image/Icon_feather-twitter.svg"
+    }
+  ],
+  "footer": [
+    {
+      "montre": ["Automatique", "Connecté", "Mecanique"]
+    },
+    {
+      "montre": ["Aviateur", "Ville", "Militaire"]
+    },
+    {
+      "montre": ["Nomos", "Orient", "Seiko"]
+    },
+    {
+      "montre": ["concept", "Boutique", "Atelier"]
+    },
+    {
+      "montre": ["Retours", "Paiement securisé", "Livraison"]
+    }
+  ]
+}

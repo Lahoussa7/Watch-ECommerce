@@ -37,6 +37,6 @@ Bienvenue sur **Projet Montre**, un site web e-commerce dédié à la vente de m
 2.  Ouvrez le fichier `HTML/Acceuil.html` dans votre navigateur web préféré.
     - _Note : Pour le bon fonctionnement des requêtes `fetch` (chargement du JSON), il est recommandé d'utiliser un serveur local (ex: Live Server sur VSCode)._
 
-## 👤 Auteur
+##  Auteur
 
 Projet réalisé dans le cadre d'un apprentissage approfondi du développement Web.
